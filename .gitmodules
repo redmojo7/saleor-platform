@@ -4,6 +4,8 @@
 [submodule "saleor-dashboard"]
 	path = saleor-dashboard
 	url = https://github.com/redmojo7/saleor-dashboard.git
+	branch = main
 [submodule "react-storefront"]
 	path = react-storefront
 	url = https://github.com/redmojo7/react-storefront.git
+	branch = main
